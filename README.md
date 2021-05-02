@@ -1,1 +1,1 @@
-# Sample PHP WebSocket Server Built with Ratchet
+# PHP WebSocket Server Built with Ratchet
